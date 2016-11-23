@@ -1,5 +1,5 @@
 /*
-NodeJS Static Http Server - http://github.com/thedigitalself/node-static-http-server/
+NodeJS Staticasfasf Http Server - http://github.com/thedigitalself/node-static-http-server/
 By James Wanga - The Digital Self
 Licensed under a Creative Commons Attribution 3.0 Unported License.
 
